@@ -1,4 +1,6 @@
-Wildcards (*also known as globbing*) allows us to select filenames based on patterns of characters.
+# Wildcards 🏔️
+
+**Wildcards** (*also known as globbing*) allows us to select filenames based on patterns of characters.
 
 | Wildcard | Meaning |
 |----------|---------|
@@ -9,7 +11,7 @@ Wildcards (*also known as globbing*) allows us to select filenames based on patt
 | `[[:class:]]` | matches any *character* that is a member of the specified *class* |
 
 
-Commonly used *character classes*:
+👉‍ Commonly used *character classes*:
 | Character class | meaning |
 |-----------------|---------|
 | `[:alnum:]` | matches any alphanumeric character |
