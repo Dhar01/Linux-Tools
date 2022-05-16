@@ -1,15 +1,17 @@
-`man` - display a program's manual page.
+# 📌 man pages
 
-```sh
-man program # program is the name of the command
+`man` - displays a program's manual page.
+
+```bash
+man program # program is the name of the command to execute
 ```
 
-On most Linux systems, `man` uses `less` to display manual page.
+> On most Linux systems, `man` uses [`less`](https://github.com/Dhar01/Linux-Tools/blob/main/Tools/less_is_more.md) to display manual page.
 
-The *manual* that man displays is broken into sections and covers not only user commands but also system administration commands, programming interfaces, file formats
+The *manual* that `man` displays is broken into sections and covers not only user commands but also system administration commands, programming interfaces, file formats
 and more.
 
-Man page organization:
+🏁 Man page organization:
 | Section | Contents |
 |:-------:|----------|
 | `1` | user commands |
@@ -21,12 +23,11 @@ Man page organization:
 | `7` | Miscellaneous |
 | `8` | System administration commands |
 
-```sh
+```bash
 man section search_item
 
 $ man 5 passwd
 ```
-
 Refer to a specific section of the manual to find what we are looking for.
 
 > `man -k` will perform the same as `apropos`.
