@@ -6,8 +6,8 @@ But remember, **Nothing can replaces the mighty man pages**. 💪‍
 
 ### 🗄️ Contents
 
-- [x] [less](https://github.com/Dhar01/Linux-Tools/blob/main/Tools/less_is_more.md) : less is more!
-- [x] [wildcards](https://github.com/Dhar01/Linux-Tools/blob/main/Tools/learn_wildcards.md) : Let's dive into the wild!
-- [x] [man page](https://github.com/Dhar01/Linux-Tools/blob/main/Tools/read_man_page.md) : Learn to read man pages, will ya?
+- [x] [less](https://github.com/Dhar01/Linux-Tools/blob/main/docs/less_is_more.md) : less is more!
+- [x] [wildcards](https://github.com/Dhar01/Linux-Tools/blob/main/docs/learn_wildcards.md) : Let's dive into the wild!
+- [x] [man page](https://github.com/Dhar01/Linux-Tools/blob/main/docs/read_man_page.md) : Learn to read man pages, will ya?
 
 

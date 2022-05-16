@@ -6,7 +6,7 @@
 man program # program is the name of the command to execute
 ```
 
-> On most Linux systems, `man` uses [`less`](https://github.com/Dhar01/Linux-Tools/blob/main/Tools/less_is_more.md) to display manual page.
+> On most Linux systems, `man` uses [`less`](https://github.com/Dhar01/Linux-Tools/blob/main/docs/less_is_more.md) to display manual page.
 
 The *manual* that `man` displays is broken into sections and covers not only user commands but also system administration commands, programming interfaces, file formats
 and more.
@@ -28,6 +28,7 @@ man section search_item
 
 $ man 5 passwd
 ```
+
 Refer to a specific section of the manual to find what we are looking for.
 
 > `man -k` will perform the same as `apropos`.
