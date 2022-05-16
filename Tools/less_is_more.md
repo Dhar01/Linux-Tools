@@ -1,3 +1,5 @@
+# 📌 less  
+
 The `less` command is a program to view text files.
 
 Example:
@@ -21,4 +23,4 @@ Some action commands for `less`:
 | `h` | display help screen |
 | `q` | quit less |
 
-`less` is `more`
+`less` is `more`!
